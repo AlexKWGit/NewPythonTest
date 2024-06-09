@@ -1,4 +1,4 @@
-class name_city
+class name_city:
 
   def __init__(self):
     pass
